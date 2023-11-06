@@ -247,7 +247,7 @@ a.active {
 }
 
 body.sign {
-    background: url('./site/fon.jpg') no-repeat;
+    background: url('./fon.jpg') no-repeat;
     background-size: cover;
     opacity: 1;
 }
